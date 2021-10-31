@@ -1,1 +1,13 @@
-/* styles go here */
+
+.field-form {
+display: block;
+}
+.field-form:not(:last-child) {
+  margin-bottom: 10px;
+}
+.block-form {
+  margin-bottom: 20px;
+}
+textarea {
+  resize: none;
+}
