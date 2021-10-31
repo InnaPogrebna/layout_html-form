@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AACA,YACA,aACA,CACA,6BACE,kBACF,CACA,YACE,kBACF,CACA,SACE,WACF","file":"style.b93a2cda.css","sourceRoot":"..\\src","sourcesContent":["\n.field-form {\ndisplay: block;\n}\n.field-form:not(:last-child) {\n  margin-bottom: 10px;\n}\n.block-form {\n  margin-bottom: 20px;\n}\ntextarea {\n  resize: none;\n}"]}
